@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Insert web page title here</title>
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta name="generator" content="thesitewizard.com's Layout Wizard 4.0.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="all" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="tswnavbar.css">
+  </head>
+  <body style="    background-color:pink;">
+    <div id="tswcontainer">
+      <div id="tswheader" style="background-color: pink;">
+        <!-- start of header section: insert your logo, etc, here -->
+        <h1> HOME </h1>
+        <p>&nbsp;</p>
+        <!-- end of header section: insert your logo, etc, above this line --> </div>
+      <div id="tswcontent" style="background-color: pink;">
+        <div id="tswcontproper" style="background-color: pink;">
+          <!-- start of content column: insert your content here -->
+          <h1>Welcome</h1>
+          <p style="Font-family: Lobster;">My name is Ammarah Khan and I am 15
+            years old and from Southborough Massachusetts </p>
+          <p> <img src="images/PXL_20250621_170723904.jpg"
+
+              alt="these are my parakeets, Luna and Pistachio" title="Luna" longdesc="file:///C:/Users/akhan7/Downloads/PXL_20250621_170723904.jpg"
+
+              style="width: 258px; height: 221px;">&nbsp;</p>
+          <p style="Font-family: Lobster;"> These are my birds, the white and
+            blue one is Luna and the yellow greenish-blue one is Pistachio but
+            we call her Pista.</p>
+          <p style="color: blue;Font-family: Lobster;">I live with both my
+            parents, my grandparents from my dad's side, and my little brother
+            who's 3 years younger than me and a mini tornado. </p>
+          <p style="color: yellow;Font-family: Lobster;"> I'm a rising sophmore
+            at Algonquin Regional High School and my favorite subjects are
+            science, english, and spanish. </p>
+          <p style="color: red;Font-family: Lobster;"> Some of my hobbies are
+            crafting, cooking, reading, and listening to music. My favorite
+            music to listen to is Kpop and Jpop &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
+          <p>&nbsp;</p>
+          <!-- end of content column: put your content above this line --> </div>
+      </div>
+      <div id="tswsidecol" style="background-color:pink;">
+        <div id="tswsideproper" style="background-color:pink;">
+          <!-- start of side column: insert your navigation menu, etc, here -->
+          <p>Press these buttons to learn more about me!</p>
+          <div id="tswcssbuttons" style="background-color: pink;">
+            <ul>
+              <li><a href="index.html" style="color: white; Background-color:purple;">Home</a></li>
+              <li><a href="aboutme.html" style="color: white; Background-color:purple;">About
+                  me</a></li>
+              <li><a href="projects.html" style="color: white; Background-color:purple;">Projects</a></li>
+            </ul>
+          </div>
+          <!-- end of side column: put your navigation menu, etc, above this line -->
+        </div>
+      </div>
+      <div style="background-color:pink;"></div>
+      <div id="tswfooter" style="background-color:pink;">
+        <!-- start of footer section: insert your copyright notice, etc, here -->
+        <!-- end of footer section: insert your copyright notice, etc, above this line -->
+      </div>
+    </div>
+  </body>
+</html>

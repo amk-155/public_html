@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>About me</title>
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta name="generator" content="thesitewizard.com's Layout Wizard 4.0.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="all" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="tswnavbar.css">
+  </head>
+  <body style="                                 background-color:pink;">
+    <div id="tswcontainer">
+      <div id="tswheader" style="background-color: pink;">
+        <!-- start of header section: insert your logo, etc, here -->
+        <h1>About Me</h1>
+        <p>&nbsp;</p>
+        <!-- end of header section: insert your logo, etc, above this line --> </div>
+      <div id="tswcontent" style="background-color: pink;">
+        <div id="tswcontproper" style="background-color: pink;">
+          <!-- start of content column: insert your content here -->
+          <h2>Music</h2>
+          <p style="color: white;Font-family:lobster;">These songs are my
+            favorite songs from my top two favorite music groups, Enhypen, which
+            is Kpop, and &amp;Team which is Jpop. I have a lot more that I like
+            but if I listed all of them it would be very tiring for me and
+            boring for you.</p>
+          <a href="https://www.youtube.com/watch?v=QMlNLo74mOw;">Future Perfect
+            by ENHYPEN</a></div>
+        <div style="background-color: pink;"><a href="https://www.youtube.com/watch?v=QMlNLo74mOw;">&nbsp;</a><a
+
+            href="https://www.youtube.com/watch?v=6PUc8Peh8Xs">Go In Blind by
+            &amp;Team</a>
+          <h2>My family</h2>
+          <p style="color: white;Font-family:lobster;">My family is Indian and
+            my brother and I were born in the U.S. but fun fact, I'm not
+            originally from Massachusetts and neither is my brother. In fact
+            we're both from different states.</p>
+          <p style="color: white;Font-family:lobster;"> I was born in Minnesota
+            on April 19, 2010 but we moved when I was a month old to New Jersey
+            because my mom had gotten accepted into NYU. I lived in New Jersey
+            for 3 years and that's where my brother was born. Soon after my mom
+            started residency, my dad got a job as a software engineer at google
+            in boston, so we moved to Massachusetts. We also move 3 times in
+            Massachusetts.</p>
+          <p style="color: white;Font-family:lobster;">the pictures shown below
+            are a stir fry ramen and a strawberry shortcake that I made </p>
+          <p style="color: white;Font-family:lobster;"><img src="images/b20cd1d7-a0e3-43a9-8457-d7ff26dd67e1%7E1.jpg"
+
+              alt="This is some stir fry ramen that I made" title="Stir fry ramen"
+
+              longdesc="file:///C:/Users/akhan7/Downloads/b20cd1d7-a0e3-43a9-8457-d7ff26dd67e1~1.jpg"
+
+              style="width: 108px; height: 126px;">&nbsp;&nbsp; &nbsp; &nbsp;
+            &nbsp; These are only 2 of the things I know how to make.I also know
+            how to make soups, ice cream, homemade pasta with homemade sauce,and
+            a lot more. &nbsp; &nbsp; </p>
+          <img src="images/80b2b468-705e-47f1-8435-9792e0d3afe8%7e1.jpg" alt="My version of a strawberry shortcake"
+
+            title="Strawberry Shortcake" longdesc="file:///C:/Users/akhan7/Downloads/80b2b468-705e-47f1-8435-9792e0d3afe8~1.jpg"
+
+            style="width: 131px; height: 99px;">
+          <div style="color: white;Font-family:lobster;">
+            <p> And fun fact, I have an insanely high spice tolerance so
+              sometimes the food I make can be inedible to some. Here is a video
+              of me winning a spicy pepper contest against my english teacher. </p>
+            <a href="https://photos.google.com/share/AF1QipMD3lJpfcDEqOc788m5M4f5JQwX4MOghXzzjpF-tGUV_m1jdwDu-yhChlOWizOFKg?pli=1&amp;key=SEdnNUcwWnRmbGtnVXQzQm42TnFRdVhoODdUaDNR">video</a>
+          </div>
+          <h2> School Life </h2>
+          <p style="color: white;Font-family:lobster;"> As I said earlier I
+            attend Algonquin Regional Highschool in Northborough and I'm a
+            rising sophmore. Afterschool I'm part of the MSA, Neuroscience club,
+            and I also do the robotics club although tbh I don't really do much
+            in there. I also did something called Story Bridge which is kind of
+            like a public speaking sort of thing. I'm not going to go too much
+            in depth about it though because it's kind of hard to explain, but
+            here is a video of my presentation. Just watch it when I'm not here.</p>
+          <a href="https://photos.google.com/share/AF1QipMHKKICUpLkj8b9BMIT5r7GpP-xt_ZhWyoaicl2gt287JnUd9_dG_jNvZczJAzFBg?key=TVh3TUZaVXNqTUx0YnF4TThBNjNZUUFvaHBXbXpR">Click
+            here to watch the video</a>
+          <!-- end of content column: put your content above this line -->
+          <p></p>
+        </div>
+        <div id="tswsidecol" style="background-color:pink;">
+          <!-- start of side column: insert your navigation menu, etc, here -->
+          <p></p>
+          <div id="tswcssbuttons" style="background-color:pink;"><a src="images/80b2b468-705e-47f1-8435-9792e0d3afe8%7e1.jpg"
+
+              alt="My version of a strawberry shortcake" title="Strawberry Shortcake"
+
+              longdesc="file:///C:/Users/akhan7/Downloads/80b2b468-705e-47f1-8435-9792e0d3afe8~1.jpg"
+
+              style="width: 131px; height: 99px;"></a>
+            <div id="tswcssbuttons">
+              <li><a href="index.html" style="color: white; Background-color:purple;">Home</a>
+              </li>
+              <li><a href="aboutme.html" style="color: white; Background-color:purple;">About
+                  me</a></li>
+              <li><a href="projects.html" style="color: white; Background-color:purple;">Projects</a></li>
+            </div>
+            <!-- end of side column: put your navigation menu, etc, above this line -->
+          </div>
+        </div>
+        <div style="background-color:pink;"></div>
+        <div id="tswfooter" style="background-color:pink;">
+          <!-- start of footer section: insert your copyright notice, etc, here -->
+          <!-- end of footer section: insert your copyright notice, etc, above this line -->
+        </div>
+      </div>
+    </div>
+    
+  </body>
+</html>

@@ -1,0 +1,10 @@
+function myFunction() {
+    const mytext1=document.getElementById("mytext1");
+    mytext1.innerHTML= "it works!";
+
+    const mytext2=document.getElementById("mytext2");
+    mytext2.innerHTML= "THis is my script";
+    const myinput=document.getElementById("myinput");
+    document.body.style.backgroundColor=myinput.value;
+    mytext1.innerHTML=myinput.value;
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>Project</title>
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <meta name="generator" content="thesitewizard.com's Layout Wizard 4.0.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" media="all" href="styles.css">
+  <link rel="stylesheet" type="text/css" href="tswnavbar.css">
+</head>
+
+<body style="          background-color:pink;">
+  <div id="tswcontainer">
+    <div id="tswheader" style="background-color: pink;">
+      <!-- start of header section: insert your logo, etc, here -->
+      <h1> HOME </h1>
+      <p>&nbsp;</p>
+      <!-- end of header section: insert your logo, etc, above this line -->
+    </div>
+    <div id="tswcontent" style="background-color: pink;">
+      <div id="tswcontproper" style="background-color: pink;">
+        <!-- start of content column: insert your content here -->
+        <h1>Welcome</h1>
+        <a href="https://users.wpi.edu/%7Enhuq/word%20fold/game.html">
+          <!-- start of side column: insert your navigation menu, etc, here -->
+          <p>Word Fold Game</p>
+        </a>
+        <div id="tswcssbuttons" style="background-color: pink;"> 
+          <a href=""
+            style="color: white; Background-color:purple;">Home</a>
+          <li><a href="aboutme.html" style="color: white; Background-color:purple;">About
+              me</a>
+          </li>
+          <li><a href="projects.html" style="color: white; Background-color:purple;">Projects</a></li>
+        </div>
+        <!-- end of side column: put your navigation menu, etc, above this line -->
+      </div>
+    </div>
+    <div style="background-color:pink;"></div>
+    <div id="tswfooter" style="background-color:pink;">
+      <!-- start of footer section: insert your copyright notice, etc, here -->
+      <!-- end of footer section: insert your copyright notice, etc, above this line -->
+    </div>
+  </div>
+</body>
+
+</html>
